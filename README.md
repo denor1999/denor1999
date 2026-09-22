@@ -42,6 +42,8 @@
 <img src="images/Allure_TestOps.png" width="50" />
 <img src="images/Telegram.png" width="50">
 <img src="images/Jira.png" width="50" />
+<img src="images/rest-assured.png" width="50" />
+<img src="images/lombok.png" width="50" />
 </p>
 
 ---
