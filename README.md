@@ -74,6 +74,6 @@
 
 - 📖 [Demoqa.com UI autotests](https://github.com/denor1999/PracticeFormTests)
 - 📖 [Apple UI autotests](https://github.com/denor1999/apple-store-UI-tests)
-- 📖 [Book-club API autotests](https://github.com/denor1999/book-club-tests)
+- 📖 [Book-club UI and API autotests](https://github.com/denor1999/book-club-tests)
 
 ---
